@@ -170,3 +170,7 @@ data_stratification/
 labeled_data/
 text_classification/
 pca_clustering/
+09-data_stratification/
+15-data_combination/
+16-data_preprocessing/
+NLTK_PACKAGES/
