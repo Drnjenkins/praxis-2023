@@ -174,3 +174,6 @@ pca_clustering/
 15-data_combination/
 16-data_preprocessing/
 NLTK_PACKAGES/
+17-pca-lemmatized/
+18-pca-stemmed/
+index.html
