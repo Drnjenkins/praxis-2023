@@ -225,3 +225,7 @@ index.html
 labeled_data/
 pca_clustering/
 text_classification/
+26-TSNE/
+27-PCA-with-TSNE/
+33-PCA-TSNE-KMeans-DBSCAN/
+34-TSNE-KMeans-DBSCAN-MacBook/
