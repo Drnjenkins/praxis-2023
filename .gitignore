@@ -229,3 +229,5 @@ text_classification/
 27-PCA-with-TSNE/
 33-PCA-TSNE-KMeans-DBSCAN/
 34-TSNE-KMeans-DBSCAN-MacBook/
+42-Pickle-Report-Classification-Environment/
+43-Report-Classification-Deployment-2019/
