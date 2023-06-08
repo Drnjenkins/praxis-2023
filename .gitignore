@@ -222,7 +222,6 @@ cython_debug/
 NLTK_PACKAGES/
 data_stratification/
 index.html
-labeled_data/
 pca_clustering/
 text_classification/
 26-TSNE/
@@ -230,4 +229,8 @@ text_classification/
 33-PCA-TSNE-KMeans-DBSCAN/
 34-TSNE-KMeans-DBSCAN-MacBook/
 42-Pickle-Report-Classification-Environment/
-43-Deploy-Report-Classification-Model-2019/
+44-Deploy-XGB-Report-Classification-Model-2019/
+45-Deploy-SVM-Report-Classification-Model-2019/
+44-Deploy-Report-Classification-Model-2019/
+*.xgb
+*.pickle
